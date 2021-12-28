@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi Bé Tuyên Iu Dấu Của A",
-    introTitle: 'gửi bÉ iu ❤Dương Anh Thủy Tuyên❤ của a',
+    introTitle: 'gửi bé iu ❤Dương Anh Thủy Tuyên❤ của a',
     introDesc: `thật là may mắn khi anh có được em 🥰
 đó là điều tuyệt với nhất với anh❤',
     btnIntro: '^^HiHi^^',
